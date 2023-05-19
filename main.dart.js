@@ -94183,7 +94183,7 @@ return A.bQ(A.a([q,A.aVn(B.am,1,A.bz(r,A.dh(s.acf(o!=null?o.a:A.a([],t.NF),a),15
 acf(a,b){var s=A.a7(a).i("ad<1,f>")
 return A.vA(A.bQ(A.W(new A.ad(a,new A.aHk(this,b),s),!0,s.i("bO.E")),B.y,B.u,B.v,B.w),B.F,null)},
 acG(a,b){var s=null,r=A.bM(A.p(b).ax.b)
-return A.vA(new A.aW(B.WC,A.h5(s,A.en(A.a([A.cg(A.bz(s,A.aH(a.b,3,B.aW,s,s,A.cm(s,s,A.bM(A.p(b).ax.b),s,s,s,s,s,s,s,s,16,s,s,B.iL,s,s,!0,s,s,s,s,s,s,s,s),B.aK,s),B.m,s,s,new A.c0(s,s,new A.dj(new A.bn(r,1,B.D,-1),B.t,B.t,B.t),s,s,s,B.a1),s,s,s,B.W7,s,s,s),1)],t.D),B.y,B.u,B.v),B.T,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aHm(this,a),s,s,s,s,s,s),s),B.F,s)}}
+return A.vA(new A.aW(B.WD,A.h5(s,A.en(A.a([A.cg(A.bz(s,A.aH(a.b,3,B.aW,s,s,A.cm(s,s,A.bM(A.p(b).ax.b),s,s,s,s,s,s,s,s,16,s,s,B.iL,s,s,!0,s,s,s,s,s,s,s,s),B.aK,s),B.m,s,s,new A.c0(s,s,new A.dj(new A.bn(r,1,B.D,-1),B.t,B.t,B.t),s,s,s,B.a1),s,s,s,B.W7,s,s,s),1)],t.D),B.y,B.u,B.v),B.T,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aHm(this,a),s,s,s,s,s,s),s),B.F,s)}}
 A.aHo.prototype={
 $0(){var s=this.a
 s.f=!s.f
@@ -95272,7 +95272,7 @@ s=A.cg(A.bz(k,new A.aW(B.Wb,A.DO(r,A.aH(q,k,k,k,k,A.p(a).p3.a,k,k),k),k),B.m,k,k
 q=A.aH(A.d(h.ay),k,k,k,k,A.p(a).p3.b,k,k)
 r=h.c?"Is owned by Client":"Is owned by Spouse"
 p=t.D
-r=A.cg(new A.aW(B.WB,A.bQ(A.a([q,B.IQ,A.aH(r,k,k,k,k,A.p(a).p3.f,k,k)],p),B.aV,B.u,B.v,B.w),k),1)
+r=A.cg(new A.aW(B.WC,A.bQ(A.a([q,B.IQ,A.aH(r,k,k,k,k,A.p(a).p3.f,k,k)],p),B.aV,B.u,B.v,B.w),k),1)
 q=h.r
 o=q==null
 if(o)n=k
@@ -95382,7 +95382,7 @@ else q=j
 q=A.aH(q,k,k,k,k,A.p(a0).p3.x,k,k)
 o=l.w
 o=o!=null?A.d(o.Q):j
-return A.bQ(A.a([f,A.cg(A.dh(new A.fa(B.Xo,k,k,A.vA(A.DJ(A.bQ(A.a([c,B.aQm,A.Yj(900,B.y,B.bU,new A.aW(B.WD,A.Yj(100,B.bx,B.u,A.bQ(A.a([a,B.d1,s,r,B.d1,q,A.aH(o,k,k,k,k,A.p(a0).p3.x,k,k)],d),B.y,B.bU,B.v,B.w),1,B.u,10,p,1),k),2,B.bU,40,new A.aW(B.iA,b,k),2)],d),B.y,B.kJ,B.v,B.w),e.ax.b,20,k,B.aSP),B.ct,k),k),100,1/0),3)],d),B.y,B.bU,B.v,B.w)},
+return A.bQ(A.a([f,A.cg(A.dh(new A.fa(B.Xo,k,k,A.vA(A.DJ(A.bQ(A.a([c,B.aQm,A.Yj(900,B.y,B.bU,new A.aW(B.WE,A.Yj(100,B.bx,B.u,A.bQ(A.a([a,B.d1,s,r,B.d1,q,A.aH(o,k,k,k,k,A.p(a0).p3.x,k,k)],d),B.y,B.bU,B.v,B.w),1,B.u,10,p,1),k),2,B.bU,40,new A.aW(B.iA,b,k),2)],d),B.y,B.kJ,B.v,B.w),e.ax.b,20,k,B.aSP),B.ct,k),k),100,1/0),3)],d),B.y,B.bU,B.v,B.w)},
 afn(a,b,c,d){var s=this.e,r=J.aq(s),q=t.Xf.a(r.h(s,"client")),p=t.ni.a(r.h(s,"model"))
 s=A.SO(new A.agU(),new A.agV())
 s=A.Q3(A.a([A.oP(B.fi,2,B.k,B.fu,"Delete",new A.agW(this,a,c)),A.oP(A.p(b).ax.b,2,A.bM(A.p(b).ax.b),B.eb,"Edit",new A.agX(this,c,a,p,q))],t.D),s,0.5,B.hq,0.5)
@@ -95614,7 +95614,7 @@ j=A.p(b5)
 d=A.p(b5).xr.at
 d=d==null?a1:A.bM(d.f)
 if(d==null)d=B.ax
-return new A.lP(A.Et(a1,a9,A.bz(a1,new A.dT(B.A,a1,B.at,B.m,A.a([A.vA(A.U2(a1,A.Fa(A.Yj(900,B.bx,B.bU,new A.dT(B.A,a1,B.at,B.m,b0,a1),1,B.bU,1,new A.dT(B.A,a1,B.at,B.m,A.a([A.bz(a1,A.bQ(A.a([m,h,i,o,A.dI(A.eQ(!1,e,A.dd(a1,a1,a1,a1,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,new A.d1(B.an,new A.bn(d,0.75,B.D,-1)),a1,a1,a1,a1,a1,a1,a1,a1,a1,B.fw,a1,!1,a1,a1,A.p(b5).p3.z,"End Date",a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1),a1,B.tr,a1,a1,a1,new A.akH(a7,a0,b5,a8),j.p3.b,new A.akx(a7,a8)),B.IA)],f),B.y,B.u,B.v,B.w),B.m,a1,B.uM,new A.c0(n,a1,a1,q,a1,a1,B.a1),a1,a1,a1,B.e2,a1,a1,1/0)],f),a1),1),new A.z9(A.t(t.l5,t.UJ))),a0.at),B.F,B.Wy),A.is(a1,A.ak2("assets/images/income.png",100,100),a1,a1,a1,a1,-70,a1),A.is(10,A.lh(B.aZi,new A.aky(a7,a0,b4,b1,b3,a8,s,p,r,b2,l,g,b5),A.kb(a1,a1,A.p(b5).ax.b,a1,a1,a1,60,a1,a1,B.lk,A.bM(A.p(b5).ax.b),a1,a1,a1,a1,a1,a1,a1,a1,a1)),50,a1,a1,a1,a1,a1)],f),a1),B.m,B.P,a1,a1,a1,690,a1,a1,a1,a1,a1),B.m,60,B.WA,a1,B.ho,a1),new A.akz(a7,a0,l,g),a1)},
+return new A.lP(A.Et(a1,a9,A.bz(a1,new A.dT(B.A,a1,B.at,B.m,A.a([A.vA(A.U2(a1,A.Fa(A.Yj(900,B.bx,B.bU,new A.dT(B.A,a1,B.at,B.m,b0,a1),1,B.bU,1,new A.dT(B.A,a1,B.at,B.m,A.a([A.bz(a1,A.bQ(A.a([m,h,i,o,A.dI(A.eQ(!1,e,A.dd(a1,a1,a1,a1,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,new A.d1(B.an,new A.bn(d,0.75,B.D,-1)),a1,a1,a1,a1,a1,a1,a1,a1,a1,B.fw,a1,!1,a1,a1,A.p(b5).p3.z,"End Date",a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1),a1,B.tr,a1,a1,a1,new A.akH(a7,a0,b5,a8),j.p3.b,new A.akx(a7,a8)),B.IA)],f),B.y,B.u,B.v,B.w),B.m,a1,B.uM,new A.c0(n,a1,a1,q,a1,a1,B.a1),a1,a1,a1,B.e2,a1,a1,1/0)],f),a1),1),new A.z9(A.t(t.l5,t.UJ))),a0.at),B.F,B.Wy),A.is(a1,A.ak2("assets/images/income.png",100,100),a1,a1,a1,a1,-70,a1),A.is(10,A.lh(B.aZi,new A.aky(a7,a0,b4,b1,b3,a8,s,p,r,b2,l,g,b5),A.kb(a1,a1,A.p(b5).ax.b,a1,a1,a1,60,a1,a1,B.lk,A.bM(A.p(b5).ax.b),a1,a1,a1,a1,a1,a1,a1,a1,a1)),50,a1,a1,a1,a1,a1)],f),a1),B.m,B.P,a1,a1,a1,690,a1,a1,a1,a1,a1),B.m,60,B.WB,a1,B.ho,a1),new A.akz(a7,a0,l,g),a1)},
 aeC(a){var s,r=t.N,q=A.t(r,r)
 if(a==="")return q
 s=a.split(" ")
@@ -97228,7 +97228,7 @@ q=""
 s=""}if(o)r=p+" "+q+" "+s
 else r=b==null?"Total":b
 o=o?B.Wi:B.Wx
-return new A.AD(A.a([new A.fK(o,A.lI(r,null,B.LG)),new A.fK(B.WE,A.lI($.b27().d3(c),null,B.LG))],t.n_))}}
+return new A.AD(A.a([new A.fK(o,A.lI(r,null,B.LG)),new A.fK(B.Wz,A.lI($.b27().d3(c),null,B.LG))],t.n_))}}
 A.aoX.prototype={
 $1(a){var s,r=null,q=this.c,p=t.n_,o=A.aV9(A.a([A.aTa(0,"Future in Hand Income Projection")],p),B.aNB),n=A.aSh(q.b),m=t.FR,l=a.c,k=t.fR,j=k.a(l.h(0,A.bv(m)))
 j.toString
@@ -117391,14 +117391,14 @@ B.wa=new A.af(20,0,20,3)
 B.e2=new A.af(20,10,20,0)
 B.Wy=new A.af(20,20,20,0)
 B.cv=new A.af(20,20,20,20)
+B.Wz=new A.hm(20,4,10,4)
 B.mN=new A.af(20,50,20,10)
-B.WA=new A.af(20,60,20,20)
-B.WB=new A.af(20,6,4,0)
+B.WB=new A.af(20,60,20,20)
+B.WC=new A.af(20,6,4,0)
 B.mO=new A.af(20,8,20,0)
 B.wb=new A.af(24,0,24,0)
-B.WC=new A.af(26,5,0,5)
-B.WD=new A.af(30,0,20,10)
-B.WE=new A.hm(30,4,10,4)
+B.WD=new A.af(26,5,0,5)
+B.WE=new A.af(30,0,20,10)
 B.WF=new A.af(40,24,40,24)
 B.wc=new A.af(48,12,48,12)
 B.fo=new A.af(4,0,4,0)
@@ -123119,8 +123119,8 @@ B.IT=new A.aW(B.fn,null,null)
 B.W6=new A.af(0,1,0,1)
 B.IQ=new A.aW(B.W6,null,null)
 B.kS=new A.aW(B.w5,null,null)
-B.Wz=new A.af(20,5,20,5)
-B.aQl=new A.aW(B.Wz,null,null)
+B.WA=new A.af(20,5,20,5)
+B.aQl=new A.aW(B.WA,null,null)
 B.Wc=new A.af(0,6,0,6)
 B.IR=new A.aW(B.Wc,null,null)
 B.aQm=new A.aW(B.w1,null,null)
